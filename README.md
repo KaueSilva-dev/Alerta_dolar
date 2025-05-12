@@ -57,7 +57,8 @@ Use a API:
 
 url := fmt.Sprintf("https://api.callmebot.com/whatsapp.php?phone=%s&text=%s&apikey=%s", telefone, msg, apiKey)
 http.Get(url)
-[Call Me Bot -> ](https://www.callmebot.com/blog/free-api-whatsapp-messages/)
+
+[Mais informações sobre Call Me Bot](https://www.callmebot.com/blog/free-api-whatsapp-messages/)
 
 🗓️ Agendamento via Automator + Calendário
 
